@@ -1,2 +1,3 @@
 # Projects
-This are my projec.
+This are my projects.
+Author: Hrishikesh Darbastwar
